@@ -78,7 +78,7 @@ Axios
 
 Recharts
 
-CSS / Tailwind (optional)
+CSS / Tailwind
 
 REST API Integration
 
