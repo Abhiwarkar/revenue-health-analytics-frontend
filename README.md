@@ -1,4 +1,4 @@
-# 📊 Revenue Health Analytics Dashboard (Frontend)
+# 📊 Revenue Health Analytics Dashboard 
 
 Modern Executive Dashboard built using **React.js** to visualize enterprise revenue KPIs exposed via FastAPI backend.
 
